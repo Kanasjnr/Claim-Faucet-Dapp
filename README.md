@@ -1,14 +1,13 @@
 # Claim Faucet DApp
 
-A decentralized application (DApp) that allows users to claim custom tokens from a faucet on the Ethereum blockchain. The deployer can create tokens, and users can claim them once every 24 hours. This project is designed for developers who need test tokens for their applications on Ethereum testnets or for projects implementing time-based token distribution mechanisms.
+A decentralized application (DApp) that allows users to claim custom tokens from a faucet on the Ethereum blockchain. The deployer can create tokens, and users can claim them once every 24 hours. 
 
-![Claim Faucet DApp Screenshot](https://placeholder.com/claim-faucet-screenshot.png)
+
 
 ## Features
 
 - Connect to MetaMask or other Web3 wallets
-- Display user's current balance
-- Claim test tokens with customizable amounts
+- Claim test tokens
 - View transaction history
 - Responsive design for desktop and mobile devices
 - Deployer can create and add custom tokens to the faucet
