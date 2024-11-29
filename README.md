@@ -80,10 +80,9 @@ Before you begin, ensure you have met the following requirements:
 1. Open your browser and navigate to \`http://localhost:3000\`
 2. Connect your MetaMask wallet to the appropriate testnet
 3. Click the "Connect Wallet" button to connect your wallet to the DApp
-4. Enter the amount of test tokens you want to claim
-5. Click the "Claim Tokens" button to receive your tokens
-6. View your updated balance and transaction history
-7. Wait for 24 hours before claiming again
+4. Click the "Claim Tokens" button to receive your tokens
+5. View your updated balance and transaction history
+6. Wait for 24 hours before claiming again
 
 ## Smart Contract Interaction
 
